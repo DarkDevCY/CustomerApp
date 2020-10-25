@@ -3,10 +3,6 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <script
-      src="https://kit.fontawesome.com/c582a40576.js"
-      crossorigin="anonymous"
-    ></script>
     <link href="main.css" rel="stylesheet" />
     <title>Company App</title>
   </head>
